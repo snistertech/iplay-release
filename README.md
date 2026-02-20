@@ -2,6 +2,8 @@
 
 A simple installation and usage guide.
 
+Admin password: admin1234
+
 ## What It Does
 
 - Runs a kiosk portal
